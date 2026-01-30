@@ -8,7 +8,7 @@ The objective of this analysis is to assess the decline in profit margins across
   * Provide clear, data-backed recommendations on which items require a price increase or discontinuation.
 
 ## Dataset Overview
-* Dataset covering three years of sales transactions (2023–2025), integrated with customer and product information.
+* Used SQL to aggregate three years of sales history into a single master view, connecting every individual order back to its specific customer and product.
 
 ## Executive Summary & Recommendations 
 * Key Finding: Identified six key products consistently failed to meet the 30% Gross Margin threshold.
