@@ -8,14 +8,13 @@ The objective of this analysis is to assess the decline in profit margins across
   * Provide clear, data-backed recommendations on which items require a price increase or discontinuation.
 
 ## Data Sources & Ingestion
-* Built a modern SQL Server data warehouse using a Medallion Architecture, from raw CSV ingestion into Bronze, Silver, and Gold layers via Stored Procedures to deliver business-ready data for BI and Machine Learning
-  
-<img width="13710" height="7920" alt="High Architector" src="https://github.com/user-attachments/assets/770c5401-885c-4baf-a779-5dede28ae6d9" />
+* Built a modern SQL Server data warehouse using a Medallion Architecture, from raw CSV ingestion into Bronze, Silver, and Gold layers via Stored Procedures to deliver business-ready data.
+<img width="13720" height="7510" alt="High Architector" src="https://github.com/user-attachments/assets/b4f5f864-891f-43bb-84a6-ae5922d5d5a3" />
 
 ## Executive Summary & Recommendations 
 * Key Finding: Identified six key products consistently failed to meet the 30% Gross Margin threshold.
 * Strategic Action: Recommended a tiered pricing strategy: discontinuing low-value merchandise and implementing price adjustments on high-volume essentials to restore profitability.
-* Full Report: [View Presentation Slides](https://drive.google.com/file/d/1OCo_NlAnVU8QG4mG2CwSHbKyep4k_UH7/view?usp=sharing)
+* Full Report: [View Presentation Slides](https://drive.google.com/file/d/1EHqgQH0TWGbQ2QZPB0_NwDP5WAjYpHe2/view?usp=sharing)
 
 ## Dash Board: 
 
