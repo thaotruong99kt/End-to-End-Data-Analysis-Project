@@ -7,8 +7,10 @@ The objective of this analysis is to assess the decline in profit margins across
   * Create a dashboard showing Year-over-Year GMP, Revenue by Category, Product and Region.
   * Provide clear, data-backed recommendations on which items require a price increase or discontinuation.
 
-## Dataset Overview
-* Used SQL to aggregate three years of sales history into a single master view, connecting every individual order back to its specific customer and product.
+## Data Sources & Ingestion
+* Built a modern SQL Server data warehouse using a Medallion Architecture, from raw CSV ingestion into Bronze, Silver, and Gold layers via Stored Procedures to deliver business-ready data for BI and Machine Learning
+  
+<img width="13710" height="7920" alt="High Architector" src="https://github.com/user-attachments/assets/770c5401-885c-4baf-a779-5dede28ae6d9" />
 
 ## Executive Summary & Recommendations 
 * Key Finding: Identified six key products consistently failed to meet the 30% Gross Margin threshold.
